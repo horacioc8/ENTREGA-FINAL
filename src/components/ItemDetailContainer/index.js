@@ -10,7 +10,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore, collection, doc, getDoc } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCMn7Q43qPWv0zaGyf9cqPi_O2Lvx10N04",
+  apiKey:  process.env.apiKey,
   authDomain: "proyecto-horacio.firebaseapp.com",
   projectId: "proyecto-horacio",
   storageBucket: "proyecto-horacio.appspot.com",
