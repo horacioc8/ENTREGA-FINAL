@@ -3,7 +3,7 @@ import {getFirestore,addDoc, doc,collection,writeBatch,} from "firebase/firestor
 import products from "../products/products";
 
 const firebaseConfig = {
-    apiKey: process.env.apiKey,
+    apiKey: "AIzaSyCMn7Q43qPWv0zaGyf9cqPi_O2Lvx10N04",
     authDomain: "proyecto-horacio.firebaseapp.com",
     projectId: "proyecto-horacio",
     storageBucket: "proyecto-horacio.appspot.com",
