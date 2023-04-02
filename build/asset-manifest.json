@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c88fa11f.css",
+    "main.js": "/static/js/main.d7a43a8b.js",
+    "static/media/t-shirt.png": "/static/media/t-shirt.48dc4e5b0d9630a7ba7d.png",
+    "static/media/pc.png": "/static/media/pc.eeee9972deecc3e84fb6.png",
+    "static/media/ring.png": "/static/media/ring.989fefb1941403cc9007.png",
+    "static/media/mountain-logo-.png": "/static/media/mountain-logo-.cba65c2f88f86ed1f8f5.png",
+    "index.html": "/index.html",
+    "main.c88fa11f.css.map": "/static/css/main.c88fa11f.css.map",
+    "main.d7a43a8b.js.map": "/static/js/main.d7a43a8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c88fa11f.css",
+    "static/js/main.d7a43a8b.js"
+  ]
+}
